@@ -1,0 +1,9 @@
+{
+  "name": "UnminableConstructionBots",
+  "version": "1.0.0",
+  "factorio_version": "0.14",
+  "title": "Unminable construction bots",
+  "author": "Choumiko",
+  "homepage": "",
+  "description": "Prevents construction bots from being mined"
+}
